@@ -1,0 +1,1357 @@
+{
+  "quote": {
+    "symbol": "sz000625",
+    "name": "长安汽车",
+    "code": "000625",
+    "last": 11.19,
+    "prev_close": 11.27,
+    "open": 11.28,
+    "volume": 385215,
+    "outer_volume": 145033,
+    "inner_volume": 240182,
+    "change": -0.08,
+    "change_pct": -0.71,
+    "high": 11.29,
+    "low": 11.18,
+    "timestamp": "20260206152351",
+    "buy": [
+      {
+        "price": 11.19,
+        "vol": 12174
+      },
+      {
+        "price": 11.18,
+        "vol": 10409
+      },
+      {
+        "price": 11.17,
+        "vol": 2895
+      },
+      {
+        "price": 11.16,
+        "vol": 4867
+      },
+      {
+        "price": 11.15,
+        "vol": 5153
+      }
+    ],
+    "sell": [
+      {
+        "price": 11.2,
+        "vol": 2336
+      },
+      {
+        "price": 11.21,
+        "vol": 4540
+      },
+      {
+        "price": 11.22,
+        "vol": 3041
+      },
+      {
+        "price": 11.23,
+        "vol": 3035
+      },
+      {
+        "price": 11.24,
+        "vol": 6091
+      }
+    ],
+    "turnover_pct": 0.47,
+    "pe": 16.32,
+    "amount_text": "11.19/385215/432180630",
+    "amount_wan": 43218.0,
+    "_fields_len": 88
+  },
+  "signals": {
+    "pct_vs_prev_close": -0.7098491570541267,
+    "range_pct_vs_prev_close": 0.9760425909494183,
+    "pos_in_range_0_1": 0.09090909090908944,
+    "orderbook_imbalance_-1_1": 0.30169963880383566,
+    "orderbook_buy_vol": 35498,
+    "orderbook_sell_vol": 19043
+  },
+  "kline": {
+    "symbol": "sz000625",
+    "period": "day",
+    "adjust": "qfq",
+    "series_key": "qfqday",
+    "bars": [
+      {
+        "date": "2026-01-16",
+        "open": 11.76,
+        "close": 11.69,
+        "high": 11.78,
+        "low": 11.66,
+        "volume": 639444,
+        "amount": null
+      },
+      {
+        "date": "2026-01-19",
+        "open": 11.69,
+        "close": 11.69,
+        "high": 11.72,
+        "low": 11.66,
+        "volume": 474320,
+        "amount": null
+      },
+      {
+        "date": "2026-01-20",
+        "open": 11.67,
+        "close": 11.67,
+        "high": 11.72,
+        "low": 11.63,
+        "volume": 544126,
+        "amount": null
+      },
+      {
+        "date": "2026-01-21",
+        "open": 11.65,
+        "close": 11.62,
+        "high": 11.65,
+        "low": 11.6,
+        "volume": 503990,
+        "amount": null
+      },
+      {
+        "date": "2026-01-22",
+        "open": 11.63,
+        "close": 11.61,
+        "high": 11.65,
+        "low": 11.6,
+        "volume": 490062,
+        "amount": null
+      },
+      {
+        "date": "2026-01-23",
+        "open": 11.61,
+        "close": 11.7,
+        "high": 11.76,
+        "low": 11.6,
+        "volume": 908195,
+        "amount": null
+      },
+      {
+        "date": "2026-01-26",
+        "open": 11.7,
+        "close": 11.57,
+        "high": 11.7,
+        "low": 11.57,
+        "volume": 752052,
+        "amount": null
+      },
+      {
+        "date": "2026-01-27",
+        "open": 11.57,
+        "close": 11.47,
+        "high": 11.57,
+        "low": 11.45,
+        "volume": 651845,
+        "amount": null
+      },
+      {
+        "date": "2026-01-28",
+        "open": 11.45,
+        "close": 11.29,
+        "high": 11.46,
+        "low": 11.26,
+        "volume": 1015620,
+        "amount": null
+      },
+      {
+        "date": "2026-01-29",
+        "open": 11.25,
+        "close": 11.38,
+        "high": 11.4,
+        "low": 11.11,
+        "volume": 1026778,
+        "amount": null
+      },
+      {
+        "date": "2026-01-30",
+        "open": 11.3,
+        "close": 11.12,
+        "high": 11.31,
+        "low": 11.11,
+        "volume": 968802,
+        "amount": null
+      },
+      {
+        "date": "2026-02-02",
+        "open": 11.08,
+        "close": 11.01,
+        "high": 11.16,
+        "low": 11.0,
+        "volume": 595999,
+        "amount": null
+      },
+      {
+        "date": "2026-02-03",
+        "open": 11.03,
+        "close": 11.07,
+        "high": 11.09,
+        "low": 11.01,
+        "volume": 401365,
+        "amount": null
+      },
+      {
+        "date": "2026-02-04",
+        "open": 11.03,
+        "close": 11.13,
+        "high": 11.15,
+        "low": 11.01,
+        "volume": 521188,
+        "amount": null
+      },
+      {
+        "date": "2026-02-05",
+        "open": 11.2,
+        "close": 11.27,
+        "high": 11.3,
+        "low": 11.16,
+        "volume": 758330,
+        "amount": null
+      }
+    ]
+  },
+  "kline_signals": {
+    "w7": {
+      "bars": 7,
+      "last_close": 11.27,
+      "high_n": 11.46,
+      "low_n": 11.0,
+      "ret_n_pct": -0.17714791851195372,
+      "daily_ret_stdev_pct": 1.3419368144225652,
+      "max_drawdown_pct": -3.2513181019332245,
+      "ma5": 11.120000000000001,
+      "ma10": null,
+      "pos_in_range_0_1": 0.5869565217391284,
+      "vol_avg": 755440.2857142857,
+      "vol_last": 758330.0,
+      "vol_last_vs_avg": 1.0038252054336525,
+      "tags": [
+        "high_vol"
+      ],
+      "window": 7,
+      "pct_to_high": 2.4128686327077866,
+      "pct_to_low": 1.6979445933869481
+    },
+    "w15": {
+      "bars": 15,
+      "last_close": 11.27,
+      "high_n": 11.78,
+      "low_n": 11.0,
+      "ret_n_pct": -3.592814371257485,
+      "daily_ret_stdev_pct": 1.013497480950422,
+      "max_drawdown_pct": -5.897435897435894,
+      "ma5": 11.120000000000001,
+      "ma10": 11.301,
+      "trend_label": "range",
+      "pos_in_range_0_1": 0.34615384615384587,
+      "vol_avg": 683474.4,
+      "vol_last": 758330.0,
+      "vol_last_vs_avg": 1.109522170837708,
+      "tags": [
+        "high_vol"
+      ],
+      "window": 15,
+      "pct_to_high": 5.272564789991063,
+      "pct_to_low": 1.6979445933869481
+    }
+  },
+  "market": {
+    "symbols": [
+      "sh000001",
+      "sz399001",
+      "sz399006",
+      "sh000300",
+      "sh000905",
+      "sh000852",
+      "sh000016",
+      "sh000688"
+    ],
+    "quotes": {
+      "sh000001": {
+        "symbol": "sh000001",
+        "name": "上证指数",
+        "code": "000001",
+        "last": 4065.58,
+        "prev_close": 4075.92,
+        "open": 4040.3,
+        "volume": 556709801,
+        "outer_volume": 0,
+        "inner_volume": 0,
+        "change": -10.34,
+        "change_pct": -0.25,
+        "high": 4095.03,
+        "low": 4029.97,
+        "timestamp": "20260206152400",
+        "buy": [
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          }
+        ],
+        "sell": [
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          }
+        ],
+        "turnover_pct": 1.16,
+        "pe": 17.29,
+        "amount_text": "4065.58/556709801/898655032959",
+        "amount_wan": 89865503.0,
+        "_fields_len": 88
+      },
+      "sz399001": {
+        "symbol": "sz399001",
+        "name": "深证成指",
+        "code": "399001",
+        "last": 13906.73,
+        "prev_close": 13952.71,
+        "open": 13801.03,
+        "volume": 730349548,
+        "outer_volume": 0,
+        "inner_volume": 0,
+        "change": -45.98,
+        "change_pct": -0.33,
+        "high": 14065.78,
+        "low": 13726.86,
+        "timestamp": "20260206152354",
+        "buy": [
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          }
+        ],
+        "sell": [
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          }
+        ],
+        "turnover_pct": 3.03,
+        "pe": 52.52,
+        "amount_text": "13906.73/730349548/1247064306607",
+        "amount_wan": 124706431.0,
+        "_fields_len": 88
+      },
+      "sz399006": {
+        "symbol": "sz399006",
+        "name": "创业板指",
+        "code": "399006",
+        "last": 3236.46,
+        "prev_close": 3260.28,
+        "open": 3222.88,
+        "volume": 209401230,
+        "outer_volume": 0,
+        "inner_volume": 0,
+        "change": -23.82,
+        "change_pct": -0.73,
+        "high": 3288.03,
+        "low": 3199.14,
+        "timestamp": "20260206152309",
+        "buy": [
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          }
+        ],
+        "sell": [
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          }
+        ],
+        "turnover_pct": 4.06,
+        "pe": 71.02,
+        "amount_text": "3236.46/209401230/560718182598",
+        "amount_wan": 56071818.0,
+        "_fields_len": 88
+      },
+      "sh000300": {
+        "symbol": "sh000300",
+        "name": "沪深300",
+        "code": "000300",
+        "last": 4643.6,
+        "prev_close": 4670.42,
+        "open": 4622.97,
+        "volume": 202716477,
+        "outer_volume": 0,
+        "inner_volume": 0,
+        "change": -26.82,
+        "change_pct": -0.57,
+        "high": 4678.26,
+        "low": 4606.64,
+        "timestamp": "20260206152400",
+        "buy": [
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          }
+        ],
+        "sell": [
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          }
+        ],
+        "turnover_pct": 0.62,
+        "pe": 14.05,
+        "amount_text": "4643.60/202716477/505759806238",
+        "amount_wan": 50575981.0,
+        "_fields_len": 88
+      },
+      "sh000905": {
+        "symbol": "sh000905",
+        "name": "中证500",
+        "code": "000905",
+        "last": 8146.41,
+        "prev_close": 8146.11,
+        "open": 8054.22,
+        "volume": 218642144,
+        "outer_volume": 0,
+        "inner_volume": 0,
+        "change": 0.3,
+        "change_pct": 0.0,
+        "high": 8247.3,
+        "low": 8014.66,
+        "timestamp": "20260206152400",
+        "buy": [
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          }
+        ],
+        "sell": [
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          }
+        ],
+        "turnover_pct": 1.96,
+        "pe": 37.02,
+        "amount_text": "8146.41/218642144/418373434781",
+        "amount_wan": 41837343.0,
+        "_fields_len": 88
+      },
+      "sh000852": {
+        "symbol": "sh000852",
+        "name": "中证1000",
+        "code": "000852",
+        "last": 8051.57,
+        "prev_close": 8068.08,
+        "open": 7980.47,
+        "volume": 281083563,
+        "outer_volume": 0,
+        "inner_volume": 0,
+        "change": -16.51,
+        "change_pct": -0.2,
+        "high": 8152.32,
+        "low": 7950.01,
+        "timestamp": "20260206152400",
+        "buy": [
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          }
+        ],
+        "sell": [
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          }
+        ],
+        "turnover_pct": 2.83,
+        "pe": 49.54,
+        "amount_text": "8051.57/281083563/444590291967",
+        "amount_wan": 44459029.0,
+        "_fields_len": 88
+      },
+      "sh000016": {
+        "symbol": "sh000016",
+        "name": "上证50",
+        "code": "000016",
+        "last": 3037.86,
+        "prev_close": 3059.01,
+        "open": 3027.17,
+        "volume": 46789818,
+        "outer_volume": 0,
+        "inner_volume": 0,
+        "change": -21.15,
+        "change_pct": -0.69,
+        "high": 3056.0,
+        "low": 3015.63,
+        "timestamp": "20260206152400",
+        "buy": [
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          }
+        ],
+        "sell": [
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          }
+        ],
+        "turnover_pct": 0.28,
+        "pe": 11.59,
+        "amount_text": "3037.86/46789818/133605955584",
+        "amount_wan": 13360596.0,
+        "_fields_len": 88
+      },
+      "sh000688": {
+        "symbol": "sh000688",
+        "name": "科创50",
+        "code": "000688",
+        "last": 1422.41,
+        "prev_close": 1432.52,
+        "open": 1415.05,
+        "volume": 13035099,
+        "outer_volume": 0,
+        "inner_volume": 0,
+        "change": -10.11,
+        "change_pct": -0.71,
+        "high": 1440.81,
+        "low": 1405.87,
+        "timestamp": "20260206152400",
+        "buy": [
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          }
+        ],
+        "sell": [
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          },
+          {
+            "price": 0.0,
+            "vol": 0
+          }
+        ],
+        "turnover_pct": 1.94,
+        "pe": 162.17,
+        "amount_text": "1422.41/13035099/62257704857",
+        "amount_wan": 6225770.0,
+        "_fields_len": 88
+      }
+    },
+    "kline_signals": {
+      "sh000001": {
+        "w7": {
+          "bars": 7,
+          "last_close": 4065.58,
+          "high_n": 4170.21,
+          "low_n": 4002.78,
+          "ret_n_pct": -2.2222329111732053,
+          "daily_ret_stdev_pct": 1.3527979184925567,
+          "max_drawdown_pct": -3.4206513739844726,
+          "ma5": 4065.4379999999996,
+          "ma10": null,
+          "pos_in_range_0_1": 0.37508212387266193,
+          "vol_avg": 701225049.2857143,
+          "vol_last": 556709801.0,
+          "vol_last_vs_avg": 0.7939103167621847,
+          "tags": [
+            "high_vol"
+          ],
+          "window": 7
+        },
+        "w15": {
+          "bars": 15,
+          "last_close": 4065.58,
+          "high_n": 4170.21,
+          "low_n": 4002.78,
+          "ret_n_pct": -1.1769567331064676,
+          "daily_ret_stdev_pct": 0.8830392315731813,
+          "max_drawdown_pct": -3.4206513739844726,
+          "ma5": 4065.4379999999996,
+          "ma10": 4102.687,
+          "trend_label": "range",
+          "pos_in_range_0_1": 0.37508212387266193,
+          "vol_avg": 730406761.9333333,
+          "vol_last": 556709801.0,
+          "vol_last_vs_avg": 0.7621914664733249,
+          "tags": [],
+          "window": 15
+        }
+      },
+      "sz399001": {
+        "w7": {
+          "bars": 7,
+          "last_close": 13906.73,
+          "high_n": 14418.09,
+          "low_n": 13726.86,
+          "ret_n_pct": -2.7506839122578364,
+          "daily_ret_stdev_pct": 1.6391177567883948,
+          "max_drawdown_pct": -3.3267646055126936,
+          "ma5": 13993.434,
+          "ma10": null,
+          "pos_in_range_0_1": 0.2602172938095845,
+          "vol_avg": 823157928.0,
+          "vol_last": 730349548.0,
+          "vol_last_vs_avg": 0.8872532513590757,
+          "tags": [
+            "high_vol"
+          ],
+          "window": 7
+        },
+        "w15": {
+          "bars": 15,
+          "last_close": 13906.73,
+          "high_n": 14532.9,
+          "low_n": 13726.86,
+          "ret_n_pct": -2.7096589140236653,
+          "daily_ret_stdev_pct": 1.153385889521636,
+          "max_drawdown_pct": -4.2612499186268895,
+          "ma5": 13993.434,
+          "ma10": 14146.258000000002,
+          "trend_label": "down",
+          "pos_in_range_0_1": 0.22315269713661753,
+          "vol_avg": 859384900.3333334,
+          "vol_last": 730349548.0,
+          "vol_last_vs_avg": 0.8498515015992439,
+          "tags": [
+            "high_vol"
+          ],
+          "window": 15
+        }
+      },
+      "sz399006": {
+        "w7": {
+          "bars": 7,
+          "last_close": 3236.46,
+          "high_n": 3390.3,
+          "low_n": 3199.14,
+          "ret_n_pct": -2.0593068261255127,
+          "daily_ret_stdev_pct": 1.6449017277592886,
+          "max_drawdown_pct": -3.284165481299086,
+          "ma5": 3279.45,
+          "ma10": null,
+          "pos_in_range_0_1": 0.1952291274325178,
+          "vol_avg": 239879852.0,
+          "vol_last": 209401230.0,
+          "vol_last_vs_avg": 0.8729421343815069,
+          "tags": [
+            "near_range_low",
+            "high_vol"
+          ],
+          "window": 7
+        },
+        "w15": {
+          "bars": 15,
+          "last_close": 3236.46,
+          "high_n": 3390.3,
+          "low_n": 3199.14,
+          "ret_n_pct": -3.0306117251566267,
+          "daily_ret_stdev_pct": 1.2534615544837957,
+          "max_drawdown_pct": -3.3748320644872356,
+          "ma5": 3279.45,
+          "ma10": 3303.343,
+          "trend_label": "down",
+          "pos_in_range_0_1": 0.1952291274325178,
+          "vol_avg": 252983952.73333332,
+          "vol_last": 209401230.0,
+          "vol_last_vs_avg": 0.827725346756388,
+          "tags": [
+            "near_range_low",
+            "high_vol"
+          ],
+          "window": 15
+        }
+      },
+      "sh000300": {
+        "w7": {
+          "bars": 7,
+          "last_close": 4643.6,
+          "high_n": 4770.96,
+          "low_n": 4578.21,
+          "ret_n_pct": -2.3195838338027652,
+          "daily_ret_stdev_pct": 1.21811554910185,
+          "max_drawdown_pct": -3.1109390875223837,
+          "ma5": 4655.758,
+          "ma10": null,
+          "pos_in_range_0_1": 0.3392477302204946,
+          "vol_avg": 287296621.5714286,
+          "vol_last": 202716477.0,
+          "vol_last_vs_avg": 0.7055999332369455,
+          "tags": [
+            "high_vol"
+          ],
+          "window": 7
+        },
+        "w15": {
+          "bars": 15,
+          "last_close": 4643.6,
+          "high_n": 4770.96,
+          "low_n": 4578.21,
+          "ret_n_pct": -1.9191206600119057,
+          "daily_ret_stdev_pct": 0.8331367088093026,
+          "max_drawdown_pct": -3.1109390875223837,
+          "ma5": 4655.758,
+          "ma10": 4686.963999999999,
+          "trend_label": "down",
+          "pos_in_range_0_1": 0.3392477302204946,
+          "vol_avg": 297555527.4,
+          "vol_last": 202716477.0,
+          "vol_last_vs_avg": 0.6812727653601639,
+          "tags": [],
+          "window": 15
+        }
+      },
+      "sh000905": {
+        "w7": {
+          "bars": 7,
+          "last_close": 8146.41,
+          "high_n": 8658.94,
+          "low_n": 8014.66,
+          "ret_n_pct": -4.36061254966048,
+          "daily_ret_stdev_pct": 2.402175386734152,
+          "max_drawdown_pct": -5.644506118922168,
+          "ma5": 8183.066000000001,
+          "ma10": null,
+          "pos_in_range_0_1": 0.20449183584776784,
+          "vol_avg": 282051664.4285714,
+          "vol_last": 218642144.0,
+          "vol_last_vs_avg": 0.7751847323537789,
+          "tags": [
+            "high_vol"
+          ],
+          "window": 7
+        },
+        "w15": {
+          "bars": 15,
+          "last_close": 8146.41,
+          "high_n": 8671.35,
+          "low_n": 8014.66,
+          "ret_n_pct": -1.7077805730005713,
+          "daily_ret_stdev_pct": 1.795600577612678,
+          "max_drawdown_pct": -6.558533965186088,
+          "ma5": 8183.066000000001,
+          "ma10": 8346.047,
+          "trend_label": "down",
+          "pos_in_range_0_1": 0.20062738887450685,
+          "vol_avg": 288095709.73333335,
+          "vol_last": 218642144.0,
+          "vol_last_vs_avg": 0.7589219020386634,
+          "tags": [
+            "high_vol"
+          ],
+          "window": 15
+        }
+      },
+      "sh000852": {
+        "w7": {
+          "bars": 7,
+          "last_close": 8051.57,
+          "high_n": 8463.12,
+          "low_n": 7950.01,
+          "ret_n_pct": -3.368134024466492,
+          "daily_ret_stdev_pct": 2.09737711425899,
+          "max_drawdown_pct": -4.281937205135239,
+          "ma5": 8102.26,
+          "ma10": null,
+          "pos_in_range_0_1": 0.19793026836350758,
+          "vol_avg": 321115127.71428573,
+          "vol_last": 281083563.0,
+          "vol_last_vs_avg": 0.8753357868897909,
+          "tags": [
+            "near_range_low",
+            "high_vol"
+          ],
+          "window": 7
+        },
+        "w15": {
+          "bars": 15,
+          "last_close": 8051.57,
+          "high_n": 8530.42,
+          "low_n": 7950.01,
+          "ret_n_pct": -2.589995947082201,
+          "daily_ret_stdev_pct": 1.5597765850100092,
+          "max_drawdown_pct": -5.847304958008386,
+          "ma5": 8102.26,
+          "ma10": 8224.573999999999,
+          "trend_label": "down",
+          "pos_in_range_0_1": 0.17497975568994248,
+          "vol_avg": 338480856.1333333,
+          "vol_last": 281083563.0,
+          "vol_last_vs_avg": 0.8304267668517018,
+          "tags": [
+            "near_range_low",
+            "high_vol"
+          ],
+          "window": 15
+        }
+      },
+      "sh000016": {
+        "w7": {
+          "bars": 7,
+          "last_close": 3037.86,
+          "high_n": 3122.14,
+          "low_n": 2987.41,
+          "ret_n_pct": -2.348187507835319,
+          "daily_ret_stdev_pct": 1.2955645351301623,
+          "max_drawdown_pct": -3.4642596539276287,
+          "ma5": 3040.766,
+          "ma10": null,
+          "pos_in_range_0_1": 0.37445260892154875,
+          "vol_avg": 69558284.42857143,
+          "vol_last": 46789818.0,
+          "vol_last_vs_avg": 0.6726706730101704,
+          "tags": [
+            "high_vol"
+          ],
+          "window": 7
+        },
+        "w15": {
+          "bars": 15,
+          "last_close": 3037.86,
+          "high_n": 3122.14,
+          "low_n": 2987.41,
+          "ret_n_pct": -1.2379955395748918,
+          "daily_ret_stdev_pct": 1.0013729623612677,
+          "max_drawdown_pct": -3.4642596539276287,
+          "ma5": 3040.766,
+          "ma10": 3054.3779999999997,
+          "trend_label": "down",
+          "pos_in_range_0_1": 0.37445260892154875,
+          "vol_avg": 70732384.93333334,
+          "vol_last": 46789818.0,
+          "vol_last_vs_avg": 0.6615048827223955,
+          "tags": [
+            "high_vol"
+          ],
+          "window": 15
+        }
+      },
+      "sh000688": {
+        "w7": {
+          "bars": 7,
+          "last_close": 1422.41,
+          "high_n": 1560.64,
+          "low_n": 1405.87,
+          "ret_n_pct": -5.653206335730016,
+          "daily_ret_stdev_pct": 1.7627399967029045,
+          "max_drawdown_pct": -5.763217172386379,
+          "ma5": 1446.0760000000002,
+          "ma10": null,
+          "pos_in_range_0_1": 0.10686825612198855,
+          "vol_avg": 14598968.57142857,
+          "vol_last": 13035099.0,
+          "vol_last_vs_avg": 0.8928780780794886,
+          "tags": [
+            "near_range_low",
+            "notable_drawdown",
+            "high_vol"
+          ],
+          "window": 7
+        },
+        "w15": {
+          "bars": 15,
+          "last_close": 1422.41,
+          "high_n": 1575.45,
+          "low_n": 1405.87,
+          "ret_n_pct": -5.6043693508355,
+          "daily_ret_stdev_pct": 1.9191107750084693,
+          "max_drawdown_pct": -8.584300569416055,
+          "ma5": 1446.0760000000002,
+          "ma10": 1489.1,
+          "trend_label": "down",
+          "pos_in_range_0_1": 0.0975350866847516,
+          "vol_avg": 15771099.533333333,
+          "vol_last": 13035099.0,
+          "vol_last_vs_avg": 0.8265180859742466,
+          "tags": [
+            "near_range_low",
+            "notable_drawdown",
+            "high_vol"
+          ],
+          "window": 15
+        }
+      }
+    },
+    "rotation_signals": {
+      "small_minus_large_15d_pct": -0.6708752870702954,
+      "small_vs_large": "mixed",
+      "growth_minus_value_15d_pct": -1.7926161855817349,
+      "growth_vs_value": "value_outperform"
+    },
+    "errors": {}
+  },
+  "relative_strength": {
+    "benchmark": "sh000300",
+    "w7_stock_minus_bench_pct": 2.1424359152908115,
+    "w15_stock_minus_bench_pct": -1.6736937112455792
+  },
+  "levels": {
+    "tick": 0.01,
+    "intraday": {
+      "open": 11.28,
+      "high": 11.29,
+      "low": 11.18,
+      "prev_close": 11.27
+    },
+    "stage_15d": {
+      "high": 11.78,
+      "low": 11.0,
+      "ma5": 11.120000000000001,
+      "ma10": 11.301,
+      "atr14": 0.14285714285714324
+    },
+    "supports": [
+      11.0,
+      11.1,
+      11.12,
+      11.18
+    ],
+    "resistances": [
+      11.2,
+      11.27,
+      11.29,
+      11.3,
+      11.4,
+      11.78
+    ]
+  },
+  "trade_plan": {
+    "mode": "swing",
+    "trend_15d": "range",
+    "setups": [
+      {
+        "name": "reclaim_prev_close",
+        "trigger_above": 11.27,
+        "stop": 11.13,
+        "take_profit": [
+          11.3,
+          11.32
+        ],
+        "invalidation": "failed_reclaim_and_fall_back_below_trigger"
+      },
+      {
+        "name": "reclaim_ma10_trend_repair",
+        "trigger_above": 11.3,
+        "stop": 11.16,
+        "take_profit": null,
+        "invalidation": "close_back_below_ma10"
+      }
+    ],
+    "bias": "range",
+    "risk_notes": [
+      "Keep position small if bias is downtrend/breakdown; wait for confirmation if uncertain.",
+      "Use stop-loss (price-based) + time stop; avoid averaging down in a breakdown.",
+      "Treat financing/flow headlines as noisy; focus on price+volume response after announcements."
+    ],
+    "context": {
+      "pct_vs_prev_close": -0.7098491570541267,
+      "orderbook_imbalance": 0.30169963880383566
+    }
+  },
+  "trade_advice": {
+    "mode": "swing",
+    "recommendation": "range_trade_or_watch",
+    "confidence": "low",
+    "rationale": [
+      "15日涨跌 -3.59%（趋势：range）",
+      "7日涨跌 -0.18%",
+      "15日最大回撤 -5.90%",
+      "价格在MA10下方（阶段偏弱）"
+    ],
+    "buy_triggers": [
+      "站上并站稳 11.27（reclaim_prev_close）",
+      "站上并站稳 11.30（reclaim_ma10_trend_repair）"
+    ],
+    "sell_triggers": [
+      "有效跌破并放量失守 15日低点 11.00",
+      "反抽不回 MA10（约 11.30）且再度走弱",
+      "跌破昨收 11.27 后无法收复（偏短线）"
+    ],
+    "key_levels": {
+      "stage_15d_low": 11.0,
+      "stage_15d_high": 11.78,
+      "ma5": 11.120000000000001,
+      "ma10": 11.301
+    },
+    "disclaimer": "Deterministic technical summary only; not financial advice."
+  },
+  "news_query": "长安汽车 000625",
+  "news": [
+    {
+      "title": "长安汽车(000625.SZ)拟斥10亿元至20亿元实施回购_车市动态 - 中金在线",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fMmItQzRrcUZJVmN6NEktMGd1S3FSaS1iM3E5bHIwQXY2RVczZGVvZVNqUVg5SUZBRVlsY0VwVTVRMkJTbVRJUzBhWGxIazRwWHJLZU9DQWp1SFB0M0dOOWowUFRpSjhNTDYw?oc=5",
+      "pubDate": "Wed, 04 Feb 2026 10:45:07 GMT",
+      "source": "中金在线",
+      "source_url": "http://auto.cnfol.com",
+      "theme": "capital_actions",
+      "horizon": "days-weeks",
+      "uncertainty": "medium"
+    },
+    {
+      "title": "股票行情快报：长安汽车（000625）2月5日主力资金净买入2307.19万元_主力研究 - 证券之星",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2WVF2OUlOZTRKVk93b3VVNnZBX1NRRWlhcVRYVlV0YVFRdVdrYVlOUzcwOTNGdW1BNWd0aU5Wa2tmYkNxRnVqcERQRTZMem9kVHFEdGN2QWpvLWZzTFN4a1NB?oc=5",
+      "pubDate": "Thu, 05 Feb 2026 13:34:30 GMT",
+      "source": "证券之星",
+      "source_url": "https://stock.stockstar.com",
+      "theme": "flow",
+      "horizon": "intraday",
+      "uncertainty": "high"
+    },
+    {
+      "title": "长安汽车：1月销量13.47万辆 同比下降51.14% - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Oci1na09qUHNLeTVQbW1OR20yZTAyX2d3V0JLczNjVWs2TGVZVWhkWW1Tc09sbENJWXRSU2JOZmJJLTlUR3N1RzItRWdjZURmQUpQLTNyZXZZTktWNmx2bQ?oc=5",
+      "pubDate": "Wed, 04 Feb 2026 12:35:21 GMT",
+      "source": "东方财富",
+      "source_url": "https://wap.eastmoney.com",
+      "theme": "other",
+      "horizon": "unknown",
+      "uncertainty": "high"
+    },
+    {
+      "title": "长安汽车(000625):2026年1月份产、销快报的自愿性信息披露公告 - 中财网",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04eE13YW5memFtRFhWU2RZNDNpLXZ4RUo4c3RvWUZlX3M3OWtndkw4bUt1cGJWUlpPMDlfZ3FjYm5JdWJoS25FM09uODZrakRIbnE4bkdn?oc=5",
+      "pubDate": "Wed, 04 Feb 2026 12:30:21 GMT",
+      "source": "中财网",
+      "source_url": "https://www.cfi.net.cn",
+      "theme": "other",
+      "horizon": "unknown",
+      "uncertainty": "high"
+    },
+    {
+      "title": "遭销量市值双重压力，这家汽车新央企火线启动回购计划 - 第一财经",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81M09xSm9EODgtVDNlNks0VVdiWFZNVkVyS2kxdG92MkpPdDFVNkpSQ3hTVzN5Z0FFRVNBRUg4Zkd0T1h1MndqYVZVMlVCY1NpOXFJ?oc=5",
+      "pubDate": "Thu, 05 Feb 2026 04:08:58 GMT",
+      "source": "第一财经",
+      "source_url": "https://www.yicai.com",
+      "theme": "capital_actions",
+      "horizon": "days-weeks",
+      "uncertainty": "medium"
+    },
+    {
+      "title": "全球首款钠电量产乘用车亮相，预计年中上市，由长安汽车携手宁德时代打造 - 新浪新闻_手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YeTBNR3VqUDV1NXdSLUpaTU80RlozUWVocWRGRGRiOG1vNEgwOTFXUV91X1FLcWE2dEloeXZrSHBRZ19SZllUN0dNY0FsT0dtT29ld1o2OUxEemRkT01yVU4xYWJlbDVlZUZPM2lDWWQ?oc=5",
+      "pubDate": "Thu, 05 Feb 2026 07:27:00 GMT",
+      "source": "新浪新闻_手机新浪网",
+      "source_url": "https://news.sina.com.cn",
+      "theme": "other",
+      "horizon": "unknown",
+      "uncertainty": "high"
+    },
+    {
+      "title": "长安汽车(000625.SZ)1月销量13.47万辆 提供者 智通财经 - 英为财情 Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYbXRPekZhM1NBY3k4UWh2UXNfcmVENklQR2NrcXlOWmJjc2RvOWQxYjBqV0NjLVVaMmxUMmJwTEo2VXJFODc1VzN0WkFVQ1hueXVvM3piTDBLSkdRem5KeHkya2FHX0RlbHBiRUs0eFE?oc=5",
+      "pubDate": "Wed, 04 Feb 2026 12:42:00 GMT",
+      "source": "英为财情 Investing.com",
+      "source_url": "https://cn.investing.com",
+      "theme": "other",
+      "horizon": "unknown",
+      "uncertainty": "high"
+    },
+    {
+      "title": "长安汽车1月份汽车总销量腰斩，新能源汽车销量同比减少46% - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWkpLTXV0MzB1cEliRGNNNjF2dHFEY24wdTZoVUJyUmlHeGNpRThsS3ZIOWhCVEcxbDVJQWo5OXY3Q3ZFbmhqUnhMcHpGQ3NPQnBtc2o5NjZNTDZmYVdCWmRteDVfS1IzakVuZ1dLbTdSazE5OU91aGo1WGtCM2QxMWk4Z2ZNYnR5Z1Nr?oc=5",
+      "pubDate": "Wed, 04 Feb 2026 14:33:58 GMT",
+      "source": "Sohu",
+      "source_url": "https://m.sohu.com",
+      "theme": "other",
+      "horizon": "unknown",
+      "uncertainty": "high"
+    },
+    {
+      "title": "长安汽车(000625.SZ)：计划回购10亿元-20亿元公司股份_车市动态 - 中金在线",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OeEQzb1lhYmZNVjdhZ2RvTjJuVmFFZXluY1FLbVV6RUtzalJTWGZKXzctRk1JbnVXYWoybnhBXzR2ZXZCRTNRbTdsaG8zYXk1UE9sMDVuRHkwamdWMVdWcE5DbW9Pa1RzNkFz?oc=5",
+      "pubDate": "Wed, 04 Feb 2026 10:45:12 GMT",
+      "source": "中金在线",
+      "source_url": "http://auto.cnfol.com",
+      "theme": "capital_actions",
+      "horizon": "days-weeks",
+      "uncertainty": "medium"
+    },
+    {
+      "title": "时代长安动力电池公司增资至40亿元 - caiwennews.com",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ybHE1X1VnT3VwTEpEalExeE9EOVc1WTVnOW5TaURIelZNcE5BR1VhSXlVQzZodmdud1dzb1ZqUVJVLTUwck5JNGZGZWtPVFhUWVFrNTNUdEJWTkVT?oc=5",
+      "pubDate": "Tue, 03 Feb 2026 07:35:25 GMT",
+      "source": "caiwennews.com",
+      "source_url": "https://www.caiwennews.com",
+      "theme": "other",
+      "horizon": "unknown",
+      "uncertainty": "high"
+    }
+  ],
+  "news_signals": {
+    "theme_counts": {
+      "capital_actions": 3,
+      "flow": 1,
+      "other": 6
+    },
+    "theme_rank": [
+      {
+        "theme": "other",
+        "count": 6
+      },
+      {
+        "theme": "capital_actions",
+        "count": 3
+      },
+      {
+        "theme": "flow",
+        "count": 1
+      }
+    ]
+  }
+}

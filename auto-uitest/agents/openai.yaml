@@ -1,0 +1,4 @@
+interface:
+  display_name: "iOS UI Test Copilot"
+  short_description: "Drive real iOS devices with WDA and draft UI tests"
+  default_prompt: "Use $auto-uitest to pick an iPhone, ensure WebDriverAgent is ready, inspect a target app, and draft an iOS UI test script for the requested flow."

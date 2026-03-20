@@ -1,0 +1,552 @@
+{
+  "quote": {
+    "symbol": "sz000625",
+    "name": "长安汽车",
+    "code": "000625",
+    "last": 11.18,
+    "prev_close": 11.38,
+    "open": 11.3,
+    "volume": 490372,
+    "outer_volume": 147351,
+    "inner_volume": 343011,
+    "change": -0.2,
+    "change_pct": -1.76,
+    "high": 11.31,
+    "low": 11.13,
+    "timestamp": "20260130111948",
+    "buy": [
+      {
+        "price": 11.18,
+        "vol": 947
+      },
+      {
+        "price": 11.17,
+        "vol": 2000
+      },
+      {
+        "price": 11.16,
+        "vol": 5068
+      },
+      {
+        "price": 11.15,
+        "vol": 7866
+      },
+      {
+        "price": 11.14,
+        "vol": 5643
+      }
+    ],
+    "sell": [
+      {
+        "price": 11.19,
+        "vol": 1657
+      },
+      {
+        "price": 11.2,
+        "vol": 3750
+      },
+      {
+        "price": 11.21,
+        "vol": 5652
+      },
+      {
+        "price": 11.22,
+        "vol": 1619
+      },
+      {
+        "price": 11.23,
+        "vol": 1101
+      }
+    ],
+    "turnover_pct": 0.59,
+    "pe": 16.31,
+    "amount_text": "11.18/490372/549527180",
+    "amount_wan": 54953.0,
+    "_fields_len": 88
+  },
+  "signals": {
+    "pct_vs_prev_close": -1.757469244288234,
+    "range_pct_vs_prev_close": 1.5817223198593997,
+    "pos_in_range_0_1": 0.2777777777777723,
+    "orderbook_imbalance_-1_1": 0.21938645440897375,
+    "orderbook_buy_vol": 21524,
+    "orderbook_sell_vol": 13779
+  },
+  "kline": {
+    "symbol": "sz000625",
+    "period": "day",
+    "adjust": "qfq",
+    "series_key": "qfqday",
+    "bars": [
+      {
+        "date": "2026-01-09",
+        "open": 11.83,
+        "close": 11.85,
+        "high": 11.91,
+        "low": 11.81,
+        "volume": 700484,
+        "amount": null
+      },
+      {
+        "date": "2026-01-12",
+        "open": 11.86,
+        "close": 11.95,
+        "high": 11.95,
+        "low": 11.83,
+        "volume": 1039763,
+        "amount": null
+      },
+      {
+        "date": "2026-01-13",
+        "open": 11.94,
+        "close": 11.82,
+        "high": 11.97,
+        "low": 11.8,
+        "volume": 958387,
+        "amount": null
+      },
+      {
+        "date": "2026-01-14",
+        "open": 11.79,
+        "close": 11.75,
+        "high": 11.85,
+        "low": 11.71,
+        "volume": 1029593,
+        "amount": null
+      },
+      {
+        "date": "2026-01-15",
+        "open": 11.75,
+        "close": 11.72,
+        "high": 11.81,
+        "low": 11.7,
+        "volume": 578908,
+        "amount": null
+      },
+      {
+        "date": "2026-01-16",
+        "open": 11.76,
+        "close": 11.69,
+        "high": 11.78,
+        "low": 11.66,
+        "volume": 639444,
+        "amount": null
+      },
+      {
+        "date": "2026-01-19",
+        "open": 11.69,
+        "close": 11.69,
+        "high": 11.72,
+        "low": 11.66,
+        "volume": 474320,
+        "amount": null
+      },
+      {
+        "date": "2026-01-20",
+        "open": 11.67,
+        "close": 11.67,
+        "high": 11.72,
+        "low": 11.63,
+        "volume": 544126,
+        "amount": null
+      },
+      {
+        "date": "2026-01-21",
+        "open": 11.65,
+        "close": 11.62,
+        "high": 11.65,
+        "low": 11.6,
+        "volume": 503990,
+        "amount": null
+      },
+      {
+        "date": "2026-01-22",
+        "open": 11.63,
+        "close": 11.61,
+        "high": 11.65,
+        "low": 11.6,
+        "volume": 490062,
+        "amount": null
+      },
+      {
+        "date": "2026-01-23",
+        "open": 11.61,
+        "close": 11.7,
+        "high": 11.76,
+        "low": 11.6,
+        "volume": 908195,
+        "amount": null
+      },
+      {
+        "date": "2026-01-26",
+        "open": 11.7,
+        "close": 11.57,
+        "high": 11.7,
+        "low": 11.57,
+        "volume": 752052,
+        "amount": null
+      },
+      {
+        "date": "2026-01-27",
+        "open": 11.57,
+        "close": 11.47,
+        "high": 11.57,
+        "low": 11.45,
+        "volume": 651845,
+        "amount": null
+      },
+      {
+        "date": "2026-01-28",
+        "open": 11.45,
+        "close": 11.29,
+        "high": 11.46,
+        "low": 11.26,
+        "volume": 1015620,
+        "amount": null
+      },
+      {
+        "date": "2026-01-29",
+        "open": 11.25,
+        "close": 11.38,
+        "high": 11.4,
+        "low": 11.11,
+        "volume": 1026778,
+        "amount": null
+      }
+    ]
+  },
+  "kline_signals": {
+    "w7": {
+      "bars": 7,
+      "last_close": 11.38,
+      "high_n": 11.76,
+      "low_n": 11.11,
+      "ret_n_pct": -2.065404475043016,
+      "daily_ret_stdev_pct": 0.9981929667856981,
+      "max_drawdown_pct": -3.5042735042735056,
+      "ma5": 11.482000000000001,
+      "ma10": null,
+      "pos_in_range_0_1": 0.41538461538461724,
+      "vol_avg": 764077.4285714285,
+      "vol_last": 1026778.0,
+      "vol_last_vs_avg": 1.3438140711992166,
+      "tags": [
+        "volume_spike"
+      ],
+      "window": 7,
+      "pct_to_high": 5.187835420393561,
+      "pct_to_low": 0.6261180679785356
+    },
+    "w15": {
+      "bars": 15,
+      "last_close": 11.38,
+      "high_n": 11.97,
+      "low_n": 11.11,
+      "ret_n_pct": -3.9662447257383873,
+      "daily_ret_stdev_pct": 0.7406865356902185,
+      "max_drawdown_pct": -5.523012552301257,
+      "ma5": 11.482000000000001,
+      "ma10": 11.568999999999997,
+      "trend_label": "down",
+      "pos_in_range_0_1": 0.31395348837209414,
+      "vol_avg": 754237.8,
+      "vol_last": 1026778.0,
+      "vol_last_vs_avg": 1.3613451884803438,
+      "tags": [
+        "volume_spike"
+      ],
+      "window": 15,
+      "pct_to_high": 7.066189624329168,
+      "pct_to_low": 0.6261180679785356
+    }
+  },
+  "levels": {
+    "tick": 0.01,
+    "intraday": {
+      "open": 11.3,
+      "high": 11.31,
+      "low": 11.13,
+      "prev_close": 11.38
+    },
+    "stage_15d": {
+      "high": 11.97,
+      "low": 11.11,
+      "ma5": 11.482000000000001,
+      "ma10": 11.568999999999997,
+      "atr14": 0.13142857142857153
+    },
+    "supports": [
+      11.0,
+      11.1,
+      11.11,
+      11.13
+    ],
+    "resistances": [
+      11.2,
+      11.3,
+      11.31,
+      11.38,
+      11.4,
+      11.48,
+      11.57,
+      11.97
+    ]
+  },
+  "trade_plan": {
+    "mode": "intraday",
+    "trend_15d": "down",
+    "setups": [
+      {
+        "name": "intraday_defense_bounce",
+        "entry_zone": [
+          11.13,
+          11.18
+        ],
+        "stop": 11.1,
+        "take_profit": [
+          11.31,
+          11.38
+        ],
+        "invalidation": "break_day_low_with_momentum_or_close_below_support"
+      },
+      {
+        "name": "reclaim_prev_close",
+        "trigger_above": 11.38,
+        "stop": 11.35,
+        "take_profit": [
+          11.43,
+          11.57
+        ],
+        "invalidation": "failed_reclaim_and_fall_back_below_trigger"
+      }
+    ],
+    "bias": "downtrend",
+    "risk_notes": [
+      "Keep position small if bias is downtrend/breakdown; wait for confirmation if uncertain.",
+      "Use stop-loss (price-based) + time stop; avoid averaging down in a breakdown.",
+      "Treat financing/flow headlines as noisy; focus on price+volume response after announcements."
+    ],
+    "context": {
+      "pct_vs_prev_close": -1.757469244288234,
+      "orderbook_imbalance": 0.21938645440897375
+    }
+  },
+  "trade_advice": {
+    "mode": "intraday",
+    "recommendation": "watch",
+    "confidence": "low",
+    "rationale": [
+      "15日涨跌 -3.97%（趋势：down）",
+      "7日涨跌 -2.07%",
+      "15日最大回撤 -5.52%",
+      "价格在MA10下方（阶段偏弱）",
+      "接近15日低位（支撑/破位风险并存）",
+      "日内靠近低位且买盘挂单略占优（仅供观察）"
+    ],
+    "buy_triggers": [
+      "回踩 11.13–11.18 获得承接（盘中防守）",
+      "站上并站稳 11.38（reclaim_prev_close）"
+    ],
+    "sell_triggers": [
+      "有效跌破并放量失守 15日低点 11.11",
+      "反抽不回 MA10（约 11.57）且再度走弱",
+      "跌破昨收 11.38 后无法收复（偏短线）"
+    ],
+    "key_levels": {
+      "stage_15d_low": 11.11,
+      "stage_15d_high": 11.97,
+      "ma5": 11.482000000000001,
+      "ma10": 11.568999999999997
+    },
+    "disclaimer": "Deterministic technical summary only; not financial advice."
+  },
+  "news_query": "长安汽车 000625",
+  "news": [
+    {
+      "title": "长安汽车23亿元底价购买长安汽车金融20%股权 - 证券时报",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORTd4RUliakNxSTdFbkdPRUtwbkRMQ3N1SDFUM2JRd29yd2pCcS0wMDlLMVdZQ2tFZ0RleG5MbDdkNTdjNXVtVXlBZHAxQlVrVTFzN0NwN3VFNkNrSlR2SnlQV2tZYnBoaW1jU1lZZWZFR2JCM2t6TTI1WE1Oa2pydVZ4V3ZmZWtlTUtZeHZ2VGt1U0h6ZTg3ZzVKenczZFR0eHRRc053?oc=5",
+      "pubDate": "Sun, 25 Jan 2026 10:18:52 GMT",
+      "source": "证券时报",
+      "source_url": "https://www.stcn.com",
+      "theme": "other",
+      "horizon": "unknown",
+      "uncertainty": "high"
+    },
+    {
+      "title": "股票行情快报：长安汽车（000625）1月26日主力资金净卖出8303.45万元_主力研究 - 证券之星",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ETk0yVHV6T0EzMjhWOEhQRnp6Q0w5ZUhaY01VSWFNT3V4TGxVV01NWjFJalVaWnhnZUljSU14bDJNSHdrX1FMUTJiOXFEeXVmcENzU0NYZWs0NmVKOVYwXzNB?oc=5",
+      "pubDate": "Mon, 26 Jan 2026 14:24:41 GMT",
+      "source": "证券之星",
+      "source_url": "https://stock.stockstar.com",
+      "theme": "flow",
+      "horizon": "intraday",
+      "uncertainty": "high"
+    },
+    {
+      "title": "长安汽车（000625）5月23日主力资金净流入1.93 亿元 - MSN",
+      "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxOaVBxaHpwUTNZOEhLQkJ1VzdxbFg1djNtMXFhY0JFRG1KWDViOGdPd2JMRVdfSmN0S05TZElTdWpJbkJNanZ5M1Bhd2VFZzd0ZmNKVzF2QTViYmN6VDlvSkJfc0xvMGdMTGpsQzduLVRlQnlyUWhTblBsSU9SRkgtbXJoVUdzSmxMdm9RNEUzSGI2YUJYS2NBd2pWRW9TdC1LYUw0X2x2a0FSV1N5Z2hBMFB3OWEtcTREcWlUWGhWVTJJd0RDZDZ0TU1yRmlVdDJaNWtWTnNMR0JwWVBsZVdPa2d1ajZUWWJFR05pN2FOZG12THpVUjltNmxXdlowVURLNUhieFpxd2pzNVZibW1FUHp5bTJvRzhQN1VZRmNnQnliSmh6N3RUU0ctVU9vVEUxNEZVV1liZUlZT2JrS2F0a1ljeTJ2NHRWLWRnaTFScXJSdm5ETWJOYmR5RzNlc3huZlIxTllNVXRQM1VjdFBDRkUtVUpBOW9sNzRWQW9paXVIcDVhM243R2xOSENGQTVvVHp6X1ZlekhETHVzUW9Jd0pOcThaajlZTUJMMk5pVi0wUDRYZ1ZtXzBudw?oc=5",
+      "pubDate": "Thu, 29 Jan 2026 16:17:37 GMT",
+      "source": "MSN",
+      "source_url": "https://www.msn.com",
+      "theme": "flow",
+      "horizon": "intraday",
+      "uncertainty": "high"
+    },
+    {
+      "title": "长安汽车(000625):公司章程（2026年1月） - 中财网",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBITWNnRHpyWGZUQmJiZnFsZUlMS054a1FaSldOQ3Q5Q1ZJX0lmQ2RIUzFYVE5DQkZRaE1UNGZLS0hWQ0NFOGZyekdyVl9YYmw2Ul8yRkFR?oc=5",
+      "pubDate": "Fri, 16 Jan 2026 12:05:53 GMT",
+      "source": "中财网",
+      "source_url": "https://www.cfi.net.cn",
+      "theme": "governance",
+      "horizon": "weeks",
+      "uncertainty": "medium"
+    },
+    {
+      "title": "长安汽车：公司控股股东未通过转融通出借股份 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XVDdsMF9jZ0g2RTVDNzdLdEkwWHZ0VVI2WUQtMENac0NMcUliX1FqTWVjNzJXdEdoVGo0Y0JubnNBUWlwSFFkNkpVRHFXMkV3MHRjd1pVVnNINE1IaGVEdFdqZy1xZw?oc=5",
+      "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+      "source": "东方财富",
+      "source_url": "https://finance.eastmoney.com",
+      "theme": "other",
+      "horizon": "unknown",
+      "uncertainty": "high"
+    },
+    {
+      "title": "长安汽车向特定对象发行股票申请获深交所受理-腾讯新闻 - QQ News",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpbDUxTHhkQ1F6R1hBN1JvVTRSWkxEUnVRaEFLbWhIWkRUZVRaT3RxaXVjbXZkMVJ3N3Z2N0h2MlNCbEZ4M3hOVWw3cE56UFVxQzhOckxn?oc=5",
+      "pubDate": "Sat, 24 Jan 2026 02:53:00 GMT",
+      "source": "QQ News",
+      "source_url": "https://news.qq.com",
+      "theme": "financing",
+      "horizon": "days-weeks",
+      "uncertainty": "medium"
+    },
+    {
+      "title": "长安汽车(000625.SZ)：独立董事张影辞职 - AASTOCKS.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeGhQWE5ZaFo2WXRkWUhMUWRBLXk2VzI0cDVha192cVlUYkhac05Sc0h3ZnNCb0RTM0pWRy1jY3ZoWnRxU1FWcGgtSXVTUEVELUJ2TVFWU1B2Y2Z6LXFQMGVYOWNMd0EzVDd2Q250X2h6aWZiRzJ5Ry1nQ2dBS3ZVOXF6NDd6NmRJeW1vb0FGeHNCR1JxUFNsNmJaMlJPSThydng0SXQ2bVU?oc=5",
+      "pubDate": "Thu, 22 Jan 2026 07:30:35 GMT",
+      "source": "AASTOCKS.com",
+      "source_url": "https://www.aastocks.com",
+      "theme": "governance",
+      "horizon": "weeks",
+      "uncertainty": "medium"
+    },
+    {
+      "title": "长安汽车(000625.SZ)11月新能源汽车销量同比增长23.32%_车市动态 - 中金在线",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56MFd6SXhESjU4dEFhTHYwVi1aTXNxNHh2VlEzSnRmQ1NpM0V2N2dkejBVbUlqSk9waUtyNEtibWI3c3QzMjJGOEd3TGpsSm9aV2FJMGQ1RjI1NUZXdEE2QUdsbUFQdmt3TkNZ?oc=5",
+      "pubDate": "Tue, 02 Dec 2025 08:00:00 GMT",
+      "source": "中金在线",
+      "source_url": "http://auto.cnfol.com",
+      "theme": "other",
+      "horizon": "unknown",
+      "uncertainty": "high"
+    },
+    {
+      "title": "长安汽车澄清：网传“取消年终奖”为不实信息 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUFpTZE9iOENpeUlzX0l1UHFuT2ZQTktYb2ZXZkRzV1BPU19iSHo2V29FWXhWOTRQcTRzZllPTV9DV2J4U1U0YUdhT2xDTmxCSURSdEEwbW5ITUJRVEtKMnBGZjZzOHFwTmJrVjcxRE12Y2lTM2xJalY2MzlnaDd3VWZha1FOZmc?oc=5",
+      "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn",
+      "theme": "other",
+      "horizon": "unknown",
+      "uncertainty": "high"
+    },
+    {
+      "title": "本周盘点（1.19-1.23）：长安汽车周涨0.09%，主力资金合计净流出5003.98万元_数据周评_数据解析 - 证券之星",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53WmRYZjRnaFIyNllPMnhHQzBrVDhua2pMdlhrbXBMdmIyMDAwUGRtTXZZU3N1dnN4QXVMLXM3QjNDTFp5enlQTjFRVUI1VWF2VmhMbjlQTTNZTGU5aEg4dUZR?oc=5",
+      "pubDate": "Sun, 25 Jan 2026 07:53:57 GMT",
+      "source": "证券之星",
+      "source_url": "https://stock.stockstar.com",
+      "theme": "flow",
+      "horizon": "intraday",
+      "uncertainty": "high"
+    },
+    {
+      "title": "长安汽车：公司L3级自动驾驶将通过运营主体长安车联科技进行上路通行试点应用 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NdXlOSXRIWWZXaVRnVE1jUWFxTHhIZ0xqT2xlSWhOZGhzSWV0R200d0RMTTB1RHVkLTVtVXkwdnN5NU5fNFpBYmJZNnI2ZFBsRjJ5REx3eTNVTDN0RDY0WA?oc=5",
+      "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+      "source": "东方财富",
+      "source_url": "https://wap.eastmoney.com",
+      "theme": "other",
+      "horizon": "unknown",
+      "uncertainty": "high"
+    },
+    {
+      "title": "长安汽车，央企股东高管计划增持！ - 证券时报",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoUWdEY0QweGw3MWRoTUhaLTBTc2luYTY3Z19Ia045ZERMT2NjS0h4SmdiVWRpb25WS0VuY3FpUGVHclN0TVFpaHcwZmNPRnc0RDR1SWw4UGlfMnpp?oc=5",
+      "pubDate": "Mon, 11 Aug 2025 13:13:06 GMT",
+      "source": "证券时报",
+      "source_url": "https://www.stcn.com",
+      "theme": "capital_actions",
+      "horizon": "days-weeks",
+      "uncertainty": "medium"
+    },
+    {
+      "title": "长安汽车(000625):2025年12月份产、销快报的自愿性信息披露公告 - 中财网",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SR0E2NUFXQUkzcE5ZRjEzSDc0dVdVN1dka1JkVE1fbUZFQWUzSE5uR2ZOS0ktaGh1NEFFbDhZdHNUTmd4a3M1Y1lpazNuYnlaQjBqX0Rn?oc=5",
+      "pubDate": "Mon, 05 Jan 2026 07:25:45 GMT",
+      "source": "中财网",
+      "source_url": "https://www.cfi.net.cn",
+      "theme": "other",
+      "horizon": "unknown",
+      "uncertainty": "high"
+    },
+    {
+      "title": "长安汽车（000625）846.17万股限售股将于1月5日解禁，占总股本0.09%_股市要闻_市场 - 中金在线",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vNmVHTmpkTERXWnVqN0lMMmlaLW5aWWZyX1Z0YjVobnFYX0QwOUFobnBmak9kLXYwLW41eGpHUXVSdWsteDFMNHlRNWJTUjQ4ZFdxMndWemFKbzJzRnB4S1JCM040ZmFKUXQ3VU1n?oc=5",
+      "pubDate": "Mon, 05 Jan 2026 00:22:16 GMT",
+      "source": "中金在线",
+      "source_url": "http://sc.stock.cnfol.com",
+      "theme": "unlock",
+      "horizon": "days",
+      "uncertainty": "medium"
+    },
+    {
+      "title": "长安汽车(000625):重庆长安汽车股份有限公司2025年度向特定对象发行A股股票募集资金使用可行性分析报告 - 中财网",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RYnJjZUMwUHBzeVoyY2FKWjAySUdCdTdkaHYzZG1xUGcyMFNSYklIODZzYWJDSnpTVVdpYTVRTFZaNFRHNU5IYVdsZzRRX2RNc1ljVHpB?oc=5",
+      "pubDate": "Mon, 29 Dec 2025 12:55:24 GMT",
+      "source": "中财网",
+      "source_url": "https://www.cfi.net.cn",
+      "theme": "financing",
+      "horizon": "days-weeks",
+      "uncertainty": "medium"
+    }
+  ],
+  "news_signals": {
+    "theme_counts": {
+      "other": 6,
+      "flow": 3,
+      "governance": 2,
+      "financing": 2,
+      "capital_actions": 1,
+      "unlock": 1
+    },
+    "theme_rank": [
+      {
+        "theme": "other",
+        "count": 6
+      },
+      {
+        "theme": "flow",
+        "count": 3
+      },
+      {
+        "theme": "financing",
+        "count": 2
+      },
+      {
+        "theme": "governance",
+        "count": 2
+      },
+      {
+        "theme": "capital_actions",
+        "count": 1
+      },
+      {
+        "theme": "unlock",
+        "count": 1
+      }
+    ]
+  }
+}

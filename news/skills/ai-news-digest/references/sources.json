@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "name": "google-news-search",
+      "type": "google_news_rss_search",
+      "enabled": true,
+      "queries": ["人工智能", "大模型", "OpenAI", "Anthropic"],
+      "hl": "zh-CN",
+      "gl": "CN",
+      "ceid": "CN:zh-Hans"
+    },
+    {
+      "name": "36kr-feed",
+      "type": "rss",
+      "enabled": true,
+      "url": "https://36kr.com/feed"
+    },
+    {
+      "name": "aibase-news",
+      "type": "aibase_html_list",
+      "enabled": true,
+      "url": "https://news.aibase.com/zh/news"
+    },
+    {
+      "name": "ai-bot-daily-ai-news",
+      "type": "ai_bot_daily_ai_news",
+      "enabled": true,
+      "url": "https://ai-bot.cn/daily-ai-news/"
+    }
+  ]
+}
+

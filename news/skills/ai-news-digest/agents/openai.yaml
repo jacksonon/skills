@@ -1,0 +1,5 @@
+display_name: AI News Digest
+short_description: Fetch latest AI/tech news from Google News, 36kr, AIBase, AI-Bot; dedupe; output title/brief/link.
+default_prompt: |-
+  抓取 Google News / 36kr / AIBase / AI-Bot（ai-bot.cn）等来源的最新 AI 科技讯息，尽量去重，并以「标题、简述、链接」输出；默认给 50-100 条（或你判断的最优数量），若数据更多也可以输出更多。
+

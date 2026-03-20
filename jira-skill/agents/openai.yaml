@@ -1,0 +1,4 @@
+interface:
+  display_name: "Jira Skill"
+  short_description: "Read JIRA work, create JIRA tasks from docs, or implement JIRA tasks in a repo"
+  default_prompt: "Use $jira-skill to classify this request into JIRA issue execution, document-to-task creation, or JIRA task implementation in a target repo, then follow that workflow."
